@@ -2,9 +2,4 @@
 headless = true
 enableCORS = false
 enableXsrfProtection = false
-address = "0.0.0.0"
-
-[browser]
-gatherUsageStats = false
-serverAddress = "indicadores-pkia.onrender.com"
-serverPort = 443
+enableWebsocketCompression = false
